@@ -1,0 +1,12 @@
+{
+  "appId": "com.erd.ai",
+  "appName": "ERD AI",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": false
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}

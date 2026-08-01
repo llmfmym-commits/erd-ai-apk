@@ -1,0 +1,15 @@
+{
+  "name": "erd-ai",
+  "version": "1.0.0",
+  "description": "ERD AI - multi-tool AI platform (image, video, voice, chat, 3D) packaged as an Android app",
+  "scripts": {
+    "build": "echo \"no build step needed, static files already in www/\""
+  },
+  "dependencies": {
+    "@capacitor/core": "^6.1.2",
+    "@capacitor/android": "^6.1.2"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.1.2"
+  }
+}
